@@ -4,7 +4,7 @@ keywords: development Reference
 tags: [development,fhir,profiles]
 sidebar: overview_sidebar
 permalink: explore_reference.html
-summary: "Developer Cheat Sheet shortcuts for the <br/>technical build of FHIR&reg; "your project here"
+summary: Developer Cheat Sheet shortcuts for the <br/>technical build of FHIR&reg; "your project here"
 ---
 
 ## 1. Profiles ##

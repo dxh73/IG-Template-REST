@@ -1,10 +1,10 @@
 ---
-title: Build | Your project Search
+title: Build  Your project Search
 keywords: development
 tags: [build,development]
 sidebar: overview_sidebar
 permalink: build_organization_search.html
-summary: "How to use the "Your project here" to perform searches on "service here", containing examples that use different technologies to perform a search. This includes HAPI Java, C# .NET and cURL."
+summary: How to use the "Your project here" to perform searches on "service here", containing examples that use different technologies to perform a search. This includes HAPI Java, C# .NET and cURL.
 ---
 
 {% include custom/ihe.reference.html apicontent="[Organization](restfulapis_identification_organization.html) "  odscontent="[NHS Digital ODS Offical Site](https://digital.nhs.uk/organisation-data-service)"  patterncontent="[Shared Repository](https://developer.nhs.uk/library/architecture/integration-patterns/portal/)" %}
