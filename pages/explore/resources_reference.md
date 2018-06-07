@@ -1,5 +1,5 @@
 ---
-title: ODS Lookup | Reference
+title: Lookup | Reference
 keywords: development Reference
 tags: [development,fhir,profiles]
 sidebar: overview_sidebar

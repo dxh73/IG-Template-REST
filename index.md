@@ -8,6 +8,8 @@ toc: false
 summary: A brief introduction to getting started with the your project here"
 ---
 
+{% include warning.html content="Template page only. ODS is a good example of a completed Implementation guide, which can be found here [https://nhsconnect.github.io/FHIR-ODS-API/](https://nhsconnect.github.io/FHIR-ODS-API/)" %}
+
 # Introduction #
 
 

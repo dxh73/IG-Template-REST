@@ -11,7 +11,7 @@ summary: "Overview of the Resources section"
 
 ## 1. Resource API Structure ##
 
-The FHIR ODS Lookup profile API described in this section of the Implementation Guide has been structured consistently in the following way:
+The "your project here" described in this section of the Implementation Guide has been structured consistently in the following way:
 - `0.` References
 - `1.` Read
 - `2.` Search

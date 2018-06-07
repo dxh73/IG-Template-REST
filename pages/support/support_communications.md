@@ -5,7 +5,7 @@ tags: [support]
 toc: false
 sidebar: overview_sidebar
 permalink: support_communications.html
-summary: "Communication channels used for the FHIR&reg; ODS Lookup API."
+summary: Communication channels used for the FHIR&reg; "your project here"
 ---
 
 ## Enquires

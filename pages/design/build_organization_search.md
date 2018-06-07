@@ -7,7 +7,6 @@ permalink: build_organization_search.html
 summary: How to use the "Your project here" to perform searches on "service here", containing examples that use different technologies to perform a search. This includes HAPI Java, C# .NET and cURL.
 ---
 
-{% include custom/ihe.reference.html apicontent="[Organization](restfulapis_identification_organization.html) "  odscontent="[NHS Digital ODS Offical Site](https://digital.nhs.uk/organisation-data-service)"  patterncontent="[Shared Repository](https://developer.nhs.uk/library/architecture/integration-patterns/portal/)" %}
 
 ## 1. Overview ##
 
@@ -39,8 +38,8 @@ Examples of using different technologies to perform a search.
 
 | Parameter | Parameter Type | Description | HAPI Java | C# .NET | cURL |
 |------|------|-------------|------|------|------|
-| <a href="build_organization_search.html#31-search-using-ods-code">`_id`/`identifier`</a>|`token`|Search for ODS records based on their logical or business identifier|<a href="build_organization_search.html#311-hapi-java"><i class="fa fa-code"></i></a> | <a href="build_organization_search.html#312-c-net"><i class="fa fa-code"></i></a> | <a href="build_organization_search.html#313-curl"><i class="fa fa-code"></i></a> |
-| <a href="build_organization_search.html#32-search-using-last-updated-date">`_lastUpdated`</a> |`date`| Search for ODS records based on their last updated date| <a href="build_organization_search.html#321-hapi-java"><i class="fa fa-code"></i></a>| <a href="build_organization_search.html#322-c-net"><i class="fa fa-code"></i></a>|<a href="build_organization_search.html#323-curl"><i class="fa fa-code"></i></a>|
+| <a href="build_organization_search.html#31-search-using-code">`_id`/`identifier`</a>|`token`|Search for records based on their logical or business identifier|<a href="build_organization_search.html#311-hapi-java"><i class="fa fa-code"></i></a> | <a href="build_organization_search.html#312-c-net"><i class="fa fa-code"></i></a> | <a href="build_organization_search.html#313-curl"><i class="fa fa-code"></i></a> |
+| <a href="build_organization_search.html#32-search-using-last-updated-date">`_lastUpdated`</a> |`date`| Search for records based on their last updated date| <a href="build_organization_search.html#321-hapi-java"><i class="fa fa-code"></i></a>| <a href="build_organization_search.html#322-c-net"><i class="fa fa-code"></i></a>|<a href="build_organization_search.html#323-curl"><i class="fa fa-code"></i></a>|
 
 
 ### 3.1 Search using Code ###
